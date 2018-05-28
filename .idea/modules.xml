@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LibrarySample.iml" filepath="$PROJECT_DIR$/LibrarySample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://D:\Users\withGit\LibrarySample\utils\mylibrary.iml" filepath="D:\Users\withGit\LibrarySample\utils\mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readylib/readylib.iml" filepath="$PROJECT_DIR$/readylib/readylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
     </modules>
   </component>
 </project>
