@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LibrarySample.iml" filepath="$PROJECT_DIR$/LibrarySample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
-      <module fileurl="file://D:\Users\withGit\LibrarySample\utils\mylibrary.iml" filepath="D:\Users\withGit\LibrarySample\utils\mylibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/readylib/readylib.iml" filepath="$PROJECT_DIR$/readylib/readylib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrarySample.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrarySample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examples/LibrarySample.examples.iml" filepath="$PROJECT_DIR$/.idea/modules/examples/LibrarySample.examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/readylib/LibrarySample.readylib.iml" filepath="$PROJECT_DIR$/.idea/modules/readylib/LibrarySample.readylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/LibrarySample.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/LibrarySample.utils.iml" />
     </modules>
   </component>
 </project>
